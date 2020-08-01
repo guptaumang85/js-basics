@@ -1,0 +1,1 @@
+alert("I'm Javascript. Living in corona");
